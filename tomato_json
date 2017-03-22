@@ -1,0 +1,25 @@
+{
+  "tomato_daily": [
+    {
+      "featured_tomato_id": 1,
+      "featured_tomato_name": "Brandywine",
+      "featured_tomato_type": "Heirloom",
+      "featured_tomato_image_link": "https://cdn.shopify.com/s/files/1/0276/5253/products/Brandywine_1cc60ce4-6bbc-4c61-baa3-207d4a8a5558.jpg?v=1417536447",
+      "featured_tomato_description": "Often times regarded as an heirloom that has the most delicious flavor and texture of any tomato. The plant is gorgeous, with beautiful, large leaves and fruit. Grow one of each color. Only gets about 3-4' tall"
+    },
+    {
+      "featured_tomato_id": 2,
+      "featured_tomato_name": "506 Bush",
+      "featured_tomato_type": "Heirloom",
+      "featured_tomato_image_link": "http://www.chapelhillmagazine.com/wp-content/uploads/2016/07/tomatoes.jpg",
+      "featured_tomato_description": "A compact hybrid, has thick, sturdy, upright stems that support a heavy yield of flavorful, medium- to large-sized tomatoes. A determinate variety, it grows 18\" to 24\" tall. This early-maturing variety begins producing in about eight weeks."
+    },
+    {
+      "featured_tomato_id": 3,
+      "featured_tomato_name": "Juliet",
+      "featured_tomato_type": "indeterminate",
+      "featured_tomato_image_link": "http://delvinfarms.com/wp-content/uploads/2015/07/DSC_0135.jpg",
+      "featured_tomato_description": "An indeterminate that produces a huge crop. The fruit is oval and it's about 2\" long. It's firm, glossy and quite dense, like a miniature paste tomato. Juliet ripens fast and furious, and many use it for soups, sauces, salsas and cold salads. They also get stewed whole for canning, and get halved for drying."
+    }
+  ]
+}
